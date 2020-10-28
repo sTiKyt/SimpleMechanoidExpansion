@@ -1,0 +1,6 @@
+/home/nameless/Work/Development/Modding/RimWorld/SimpleMechanoidExpansion/SimpleMechanoidExpansion/Source/SimpleMechanoidExpansion/obj/Debug/SimpleMechanoidExpansion.csprojAssemblyReference.cache
+/home/nameless/Work/Development/Modding/RimWorld/SimpleMechanoidExpansion/SimpleMechanoidExpansion/Source/SimpleMechanoidExpansion/obj/Debug/SimpleMechanoidExpansion.csproj.CoreCompileInputs.cache
+/home/nameless/Work/Development/Modding/RimWorld/SimpleMechanoidExpansion/SimpleMechanoidExpansion/Assemblies/SimpleMechanoidExpansion.dll
+/home/nameless/Work/Development/Modding/RimWorld/SimpleMechanoidExpansion/SimpleMechanoidExpansion/Assemblies/SimpleMechanoidExpansion.pdb
+/home/nameless/Work/Development/Modding/RimWorld/SimpleMechanoidExpansion/SimpleMechanoidExpansion/Source/SimpleMechanoidExpansion/obj/Debug/SimpleMechanoidExpansion.dll
+/home/nameless/Work/Development/Modding/RimWorld/SimpleMechanoidExpansion/SimpleMechanoidExpansion/Source/SimpleMechanoidExpansion/obj/Debug/SimpleMechanoidExpansion.pdb
