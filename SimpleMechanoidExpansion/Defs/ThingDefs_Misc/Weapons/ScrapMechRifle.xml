@@ -23,22 +23,22 @@
             <RangedWeapon_Cooldown>2.2</RangedWeapon_Cooldown>
         </statBases>
         <recipeMaker>
-            <researchPrerequisite>ChargedShot</researchPrerequisite>
+            <researchPrerequisite>ChargedShot</researchPrerequisite>            <!-- TODO Replace with something like "Scrap mechanoid weaponry" or "Simple/(Basics of) mechanoid anatomy" -->
             <skillRequirements>
                 <Crafting>6</Crafting>
             </skillRequirements>
             <recipeUsers Inherit="False">
-                <li>FabricationBench</li>
+                <li>FabricationBench</li>                <!-- TODO Replace with something like "Scrap mechanoid bench"-->
             </recipeUsers>
         </recipeMaker>
-        <costList>
+        <costList> <!-- TODO add chemcrystals, balance cost -->
             <Plasteel>50</Plasteel>
             <ComponentSpacer>2</ComponentSpacer>
-        </costList>
-        <thingSetMakerTags>
+        </costList> <!-- END OF TODO -->
+        <thingSetMakerTags> <!-- TODO figure out what those are -->
             <li>RewardStandardLowFreq</li>
             <li>RewardStandardQualitySuper</li>
-        </thingSetMakerTags>
+        </thingSetMakerTags> <!-- END OF TODO -->
         <weaponTags>
             <li>SpacerGun</li>
         </weaponTags>
@@ -47,16 +47,16 @@
                 <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>Bullet_ChargeRifle</defaultProjectile>
-                <warmupTime>1.0</warmupTime>
+                <warmupTime>1.0</warmupTime> <!-- TODO balance those-->>
                 <range>25.9</range>
                 <ticksBetweenBurstShots>12</ticksBetweenBurstShots>
                 <burstShotCount>3</burstShotCount>
                 <soundCast>Shot_ChargeRifle</soundCast>
                 <soundCastTail>GunTail_Medium</soundCastTail>
-                <muzzleFlashScale>9</muzzleFlashScale>
+                <muzzleFlashScale>9</muzzleFlashScale> <!-- END OF TODO -->
             </li>
         </verbs>
-        <tools>
+        <tools> <!-- TODO add cut damage, replace and balance those -->
             <li>
                 <label>stock</label>
                 <capacities>
@@ -74,7 +74,7 @@
                 <power>9</power>
                 <cooldownTime>2</cooldownTime>
             </li>
-        </tools>
+        </tools> <!-- END OF TODO -->
     </ThingDef>
 
 </Defs>
