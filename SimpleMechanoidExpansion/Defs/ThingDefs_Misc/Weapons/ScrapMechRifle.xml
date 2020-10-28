@@ -46,7 +46,7 @@
             <li>
                 <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
-                <defaultProjectile>Bullet_ChargeRifle</defaultProjectile>
+                <defaultProjectile>SME_Bullet_ScrapMechRifle</defaultProjectile>
                 <warmupTime>1.0</warmupTime> <!-- TODO balance those-->>
                 <range>25.9</range>
                 <ticksBetweenBurstShots>12</ticksBetweenBurstShots>
