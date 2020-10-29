@@ -18,4 +18,19 @@
     </subSounds>
   </SoundDef>
 
+   <SoundDef>
+    <defName>SME_Shot_ScrapMechRifle</defName>  
+    <context>MapOnly</context>  
+    <maxSimultaneous>1</maxSimultaneous>  
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Folder">
+            <clipFolderPath>Weapon/ScrapMechRifle</clipFolderPath>
+          </li>
+        </grains>
+      </li>
+    </subSounds>
+  </SoundDef>
+
 </Defs>
