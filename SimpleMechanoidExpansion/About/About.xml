@@ -1,18 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Simple Mechanoid Expansion</name>
-    <packageId>sTiKyt.SME</packageId>
+	<packageId>sTiKyt.SME</packageId>
 	<author>sTiKyt</author>
 	<url>https://to-be-added.com</url>
 	<supportedVersions>
 		<li>1.2</li>
 	</supportedVersions>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
 	<description>
 Yeah something
 
 Load mod at bottom of mod list:
 	Core
-	Royalty
+	Royalty (optional)
+	... (other mods) ...
 	Simple Mechanoid Expansion
 	</description>
 </ModMetaData>
