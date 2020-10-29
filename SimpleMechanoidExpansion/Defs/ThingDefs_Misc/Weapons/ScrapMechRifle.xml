@@ -2,7 +2,7 @@
 
 <Defs>
 
-    <ThingDef ParentBase="BaseHumanMakeableGun">
+    <ThingDef ParentName="BaseHumanMakeableGun">
 
         <defName>SME_ScrapMechRifle</defName>
         <label>scrap mechanoid rifle</label>
