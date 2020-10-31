@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Defs></Defs>
+<Defs>
+
+    <ResearchProjectDef>
+        <defName>SME_FirstContact</defName>
+        <label>first contact</label>
+        <description>We saw some dangerous machines, we need to make sure we are ready</description>
+        <baseCost>1</baseCost>
+        <techLevel>Industrial</techLevel>
+        <prerequisites></prerequisites>
+        <requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+        <researchViewX>0.3</researchViewX>
+        <researchViewY>1</researchViewY>
+        <tab>SME_Mechanology</tab>
+    </ResearchProjectDef>
+
+    <ResearchProjectDef>
+        <defName>SME_InitialMechanology</defName>
+        <label>initial mechanology</label>
+        <description>WIP to be added</description>
+        <baseCost>1</baseCost>
+        <techLevel>Industrial</techLevel>
+        <prerequisites></prerequisites>
+        <requiredResearchBuilding>SME_MechanologyBench</requiredResearchBuilding>
+        <researchViewX>1.5</researchViewX>
+        <researchViewY>1</researchViewY>
+        <tab>SME_Mechanology</tab>
+    </ResearchProjectDef>
+
+</Defs>
