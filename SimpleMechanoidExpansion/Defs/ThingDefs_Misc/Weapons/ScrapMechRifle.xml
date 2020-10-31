@@ -37,10 +37,10 @@
             <ComponentIndustrial>5</ComponentIndustrial>
             <SME_Chemcrystal>3</SME_Chemcrystal>
         </costList>
-        <thingSetMakerTags> <!-- TODO figure out what those are -->
+        <thingSetMakerTags>
             <li>RewardStandardLowFreq</li>
             <li>RewardStandardQualitySuper</li>
-        </thingSetMakerTags> <!-- END OF TODO -->
+        </thingSetMakerTags>
         <weaponTags>
             <li>SpacerGun</li>
             <li>ScrapMechGun</li>
@@ -50,10 +50,10 @@
                 <verbClass>Verb_Shoot</verbClass>
                 <hasStandardCommand>true</hasStandardCommand>
                 <defaultProjectile>SME_Bullet_ScrapMechRifle</defaultProjectile>
-                <warmupTime>1.0</warmupTime> <!-- TODO balance those-->
-                <range>25.9</range>
-                <ticksBetweenBurstShots>12</ticksBetweenBurstShots>
-                <burstShotCount>3</burstShotCount>
+                <warmupTime>1.5</warmupTime> <!-- TODO balance those-->
+                <range>30.0</range>
+                <ticksBetweenBurstShots>16</ticksBetweenBurstShots>
+                <burstShotCount>2</burstShotCount>
                 <soundCast>SME_Shot_ScrapMechRifle</soundCast>
                 <soundCastTail>GunTail_Medium</soundCastTail>
                 <muzzleFlashScale>9</muzzleFlashScale> <!-- END OF TODO -->
