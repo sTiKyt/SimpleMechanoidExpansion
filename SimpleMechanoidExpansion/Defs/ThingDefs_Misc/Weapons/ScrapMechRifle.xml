@@ -97,16 +97,18 @@
     </ThingDef>
     <ThingDef ParentName="BaseBullet">
         <defName>SME_Bullet_ScrapMechRifle</defName>
-        <label>charge shot</label> <!-- TODO rename this-->
+        <label>chemical shot</label> <!-- TODO rename this-->
         <graphicData>
-            <texPath>Things/Projectile/Charge_Small</texPath> <!-- TODO replace this-->
+            <texPath>Things/Projectile/LongChemShot</texPath> <!-- TODO replace this-->
             <graphicClass>Graphic_Single</graphicClass>
+            <drawSize>2</drawSize>
         </graphicData>
         <projectile> <!-- TOOD Balance this -->
             <damageDef>Bullet</damageDef>
-            <damageAmountBase>15</damageAmountBase>
-            <armorPenetrationBase>0.35</armorPenetrationBase>
-            <speed>70</speed> 
+            <damageAmountBase>11</damageAmountBase>
+            <armorPenetrationBase>0.12</armorPenetrationBase>
+            <stoppingPower>0.5</stoppingPower>
+            <speed>130</speed> 
         </projectile> <!-- END OF TODO -->
     </ThingDef>
 
